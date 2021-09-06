@@ -1,5 +1,9 @@
 # Statusmap panel for Grafana
 
+## Краткое описание
+
+
+
 [![Download from GitHub](https://img.shields.io/github/tag-date/flant/grafana-statusmap.svg?logo=github&label=latest)](https://github.com/flant/grafana-statusmap/releases/latest)
 [![GH Discussions](https://img.shields.io/badge/GitHub-discussions-brightgreen)](https://github.com/flant/grafana-statusmap/discussions)
 [![Telegram chat RU](https://img.shields.io/badge/@statusmap_ru-RU-informational.svg?logo=telegram)](https://t.me/statusmap_ru)
@@ -12,6 +16,13 @@ Panel to show discrete statuses of multiple targets over time.
 ![Statusmap sample panel with dark theme](https://raw.githubusercontent.com/flant/grafana-statusmap/master/docs/img/flant-statusmap-panel-dark.png)
 
 
+
+
+## Ответственные
+
+- Code owner: [Григорий Хмельницкий-Шатерников](https://skyeng.slack.com/team/U01G1SL45V2)
+- Product owner: [Виталий Окулов](https://skyeng.slack.com/team/UM7S6C3EK)
+- Команда: Infra Ops
 ## Features
 
 * Grouping values into rows and buckets using legend from query
